@@ -16,13 +16,13 @@
 
 /* ── 2. Design tokens — pipeline overrides (last-wins) ─────── */
 :root {
-  --color-primary: #E67E22;
-  --color-accent:  #E67E22;
-  --color-ink:     #1A1B1E;
-  --color-bg:      #FFF9F5;
+  --color-primary: #4A90E2;
+  --color-accent:  #FF6B35;
+  --color-ink:     #2D2D2D;
+  --color-bg:      #FFFBF7;
   --color-surface: #FFFFFF;
-  --color-muted:   #72706C;
-  --color-footer:  #2C3E50;
+  --color-muted:   #6B6B6B;
+  --color-footer:  #1A1A2E;
 }
 
 /* ── 3. Scroll background ───────────────────────────────────── */
